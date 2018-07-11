@@ -1,4 +1,8 @@
-# updating the existing liv env
+# update the existing live env
+
+ **upgare is possibe from 9.0 > higher vestions only
+ from 8.0 to 9.0 upgrade in not possible we need to reinstall **
+ 
  
  Log in to the Fuel Master node CLI as root.
 
@@ -83,5 +87,7 @@ The system response should be the following:
 Potential updates: ALL NODES UP-TO-DATE
 
 Manually add your old environment customizations to your updated environment using the Cudet and Puppet Noop run reports.
+
+
 
 
