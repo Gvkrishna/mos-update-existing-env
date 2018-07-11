@@ -3,9 +3,9 @@
  Log in to the Fuel Master node CLI as root.
 
 Run an environment integrity check using Cudet:
-------
+--
 cudet -e <ENV_ID>
-----
+--
 
 To find the environment ID, run 
 ----
